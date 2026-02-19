@@ -9,4 +9,5 @@ This project is dedicated to ray tracing the simplest 3D geometric shapes using 
 
 ## Contributors
 https://github.com/Db1zz - Gosha
+
 https://github.com/GeorgeLukasWagner - Gorg
